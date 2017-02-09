@@ -6,6 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
+ * 部门java类
  * Created by Tonny on 2017-2-7.
  */
 
